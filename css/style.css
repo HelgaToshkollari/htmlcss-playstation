@@ -7,6 +7,9 @@
     --space-cadet: #161C3Bff;
     --cobalt-blue: #00439Cff;
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .bgc-orange-btn{
     background-color: var(--sinopia);
 }
