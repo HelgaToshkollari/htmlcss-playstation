@@ -1,0 +1,33 @@
+:root{
+    --black: #000000ff;
+    --sinopia: #CD3D0Fff;
+    --bluetiful: #2D64E6ff;
+    --eerie-black: #1F1F1Fff;
+    --gray-x-11-gray: #BEBCBBff;
+    --space-cadet: #161C3Bff;
+    --cobalt-blue: #00439Cff;
+}
+.bgc-orange-btn{
+    background-color: var(--sinopia);
+}
+.bgc-blue-btn{
+    background-color: var(--bluetiful);
+}
+.bgc-footer{
+    background-color: var(--cobalt-blue);
+}
+.bgc-dark{
+    background-color: var(--eerie-black);
+}
+.bgc-grey{
+    background-color: var(--gray-x-11-gray);
+}
+.img-container{
+    width: 60px;
+}
+.img-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
