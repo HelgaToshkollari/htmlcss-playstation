@@ -19,6 +19,9 @@ body{
 .bgc-footer{
     background-color: var(--cobalt-blue);
 }
+.bgc-dark-blue{
+    background-color: var(--space-cadet);
+}
 .bgc-dark{
     background-color: var(--eerie-black);
 }
