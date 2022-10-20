@@ -62,14 +62,19 @@ body{
     font-size: 10px;
     padding-left: .5rem;
 }
-a{
+header a{
     text-decoration: none;
     color: black;
     padding: .6rem;
 }
 section{
-    padding: 2rem 0;
+    padding: 2.5rem 0;
 }
 .my-pad-top{
     padding-top: 15rem;
+}
+footer a{
+    text-decoration: none;
+    color:white;
+    
 }
