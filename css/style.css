@@ -34,7 +34,7 @@ body{
     object-fit: contain;
     display: block;
 }
-.bg-section-img{
+.bg-full-1{
     background-image: url('../img/jumbo-bg.png');
     background-position: center;
     background-size: cover;
