@@ -40,9 +40,7 @@ body{
 .bg-full-1{
     background-image: url('../img/jumbo-bg.png');
     background-position: center;
-    background-size: cover;
-   
-   
+    background-size: cover;   
 }
 .bg-full-2{
     background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
@@ -75,6 +73,22 @@ section{
 }
 footer a{
     text-decoration: none;
-    color:white;
+    color:white; 
+}
+
+.over-border:hover{
+    border: 3px solid rgb(13, 65, 236);
+    padding: 5px ;
     
+}
+.over-border-bottom:hover{
+    border-bottom: 3px solid rgb(13, 65, 236);
+  
+}
+header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 10;
 }
